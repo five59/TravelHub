@@ -1,0 +1,83 @@
+manufacturer	model	designator	id	category	engine_type
+Airbus Industrie	A300 - 600 Pax	AB6			J
+Airbus Industrie	A310	310			J
+Airbus Industrie	A310 - 300 Pax	313			J
+Airbus Industrie	318	318			J
+Airbus Industrie	A318/19/20/21	32S			J
+Airbus Industrie	A319	319			J
+Airbus Industrie	A320	320			J
+Airbus Industrie	A321	321			J
+Airbus Industrie	A330	330			J
+Airbus Industrie	A330-200	332			J
+Airbus Industrie	A330-300	333			J
+Airbus Industrie	A340	340			J
+Airbus Industrie	A340-300	343			J
+Airbus Industrie	A340-500	345			J
+Airbus Industrie	A340-600	346			J
+Airbus Industrie	A380-800	388			J
+Airbus Industrie	A380-800	380			J
+Antonov	AN148-100	A81			
+ATR	42 / 72	ATR			
+ATR	42-500	AT5			
+ATR	72	AT7			
+Avro	RJ85	AR8			
+Boeing	MD-11	M11			J
+Boeing	MD-88	M88			J
+Boeing	MD-90	M90			J
+Boeing	B717-200	717			J
+Boeing	B737	737			J
+Boeing	B737	73R			J
+Boeing	B737-300 (Winglets)	73C			J
+Boeing	B737-300	733			J
+Boeing	B737-400	734			J
+Boeing	B737-500	735			J
+Boeing	B737-600	736			J
+Boeing	B737-700 (Winglets)	73W			J
+Boeing	B737-700	73G			J
+Boeing	B737-800 (Winglets)	73H			J
+Boeing	B737-800	738			J
+Boeing	B737-900 (Winglets)	73J			J
+Boeing	B737-900	739			J
+Boeing	B747 Mixed Configuration	74M			J
+Boeing	B747	747			J
+Boeing	B747-400 Mixed Configuration	74E			J
+Boeing	B747-400	744			J
+Boeing	B757	757			J
+Boeing	B757-200 (Winglets)	75W			J
+Boeing	B757-200	752			J
+Boeing	B757-300	753			J
+Boeing	B767	767			J
+Boeing	B767-200	762			J
+Boeing	B767-300	76W			J
+Boeing	B767-300	763			J
+Boeing	B767-400	764			J
+Boeing	B777	777			J
+Boeing	B777-200/200ER	772			J
+Boeing	B777-200LR	77L			J
+Boeing	B777-300	773			J
+Boeing	B777-300ER	77W			J
+Boeing	B787 Dreamliner	787			J
+Boeing	B787-800 Dreamliner	788			J
+Varies	Bus	BUS			U
+Canadair	Regional Jet	CRJ			
+Canadair	Regional Jet 1000	CRK			
+Canadair	Regional Jet 200	CR2			
+Canadair	Regional Jet 700	CR7			
+Canadair	Regional Jet 900	CR9			
+De Havilland	DHC-8-400 Dash 8Q	DH4			T
+Embraer	E120 Brasilia	EM2			
+Embraer	E170	E70			
+Embraer	E170/175/190/195	EMJ			
+Embraer	E175	E75			
+Embraer	E190	E90			
+Embraer	E195	E95			
+Embraer	ERJ135	ER3			
+Embraer	ERJ135/140/145	ERJ			
+Embraer	ERJ145	ER4			
+Varies	Equipment Varies	EQV			
+Fokker	F100	100			T
+Fokker	F50	F50			T
+Fokker	F70	F70			T
+Saab	S2000	S20			T
+Saab	S340	SF3			T
+Superjet	S100-95	SU9			T
