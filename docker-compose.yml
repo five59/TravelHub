@@ -1,0 +1,27 @@
+version: '2'
+services:
+  db:
+    image: postgres
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_NAME=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+
+  web:
+    build: web
+    command: python /code/manage.py runserver_plus 0.0.0.0:8001
+    volumes:
+      - ./web:/code
+    ports:
+      - "8001:8001"
+    depends_on:
+      - db
+    environment:
+      - VIRTUAL_HOST=travelhub.docker
+      - VIRTUAL_PORT=8001
+
+networks:
+  default:
+    external:
+      name: core_bridge
